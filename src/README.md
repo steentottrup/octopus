@@ -2,7 +2,7 @@
 
 ## getcertthumbprint.csx
 
-A C# script to the the thumbprint of a (webhosting) certificate. Used together with `windowsacmeclient.ps1` and the build-in "Deploy to IIS" to add a SSL certificate to a site, as "Deploy to IIS" needs the thumbprint of the certificate as an input argument.
+A C# script to get the thumbprint of a (webhosting) certificate. Used together with `windowsacmeclient.ps1` and the build-in "Deploy to IIS" to add a SSL certificate to a site, as "Deploy to IIS" needs the thumbprint of the certificate as an input argument.
 
 ## ghostinspector.csx
 
